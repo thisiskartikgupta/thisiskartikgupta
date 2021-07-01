@@ -1,18 +1,24 @@
 <p align="center">
-    <strong><code>Namaste everyone</code></strong>
-    <img src="img/praying-praying-hands.gif" alt="Hand Wave" width=20/>
+    <strong>Namaste everyone</strong>
+    <img src="img/praying-praying-hands.gif" alt="Hand Wave" width=25/>
 </p>
 <p align="center">
    <h1 align="center">
     <samp> I am Kartik Gupta</samp>
-    <img src="img/long-livethe-blob-sunglasses.gif" width=25 >
+    <img src="img/long-livethe-blob-sunglasses.gif" width=35 >
    </h1>
 </p>
 
-<code>
+<em>
     This section is being updated ! Stay tuned
-</code>
+    
 <img src="img/0529-light.gif" alt="Flash" width=20>
+<img src="img/0529-light.gif" alt="Flash" width=20>
+<img src="img/0529-light.gif" alt="Flash" width=20>
+<img src="img/0529-light.gif" alt="Flash" width=20>
+<img src="img/0529-light.gif" alt="Flash" width=20>
+<img src="img/0529-light.gif" alt="Flash" width=20>
+</em>
 
 
 <!--
