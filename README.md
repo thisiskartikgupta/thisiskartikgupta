@@ -22,6 +22,10 @@
 <img src="img/0529-light.gif" alt="Flash" width=20>
 </em>
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisiskartikgupta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskartikgupta&theme=radical" />
+  
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=thisiskartikgupta&theme=rogue" />
 
 <!--
 **thisiskartikgupta/thisiskartikgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
