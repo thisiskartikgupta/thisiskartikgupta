@@ -1,3 +1,5 @@
+<!-- <table><tr><td>Boxed text</td></tr></table -->
+
 <p align="center">
     <strong>Namaste everyone</strong>
     <img src="img/praying-praying-hands.gif" alt="Hand Wave" width=25/>
