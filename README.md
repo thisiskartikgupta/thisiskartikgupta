@@ -3,7 +3,7 @@
     <img src="img/long-livethe-blob-sunglasses.gif" width="30" >
 </h2>
 
-<img align="right" src="./static/assets/png/developer.gif" alt="Hola Coders" width="400"/> 
+<img align="right" src="./static/assets/gif/developer.gif" alt="Namaste coders" width="400"/> 
 
 <ul>
     <li><h5>🎓 &nbsp; I'm a 2023 undergraduate student pursuing my B.Tech in Computer Science.</h5></li>
@@ -18,6 +18,18 @@
 
 <h3 align="center"><samp>Connect with me on </samp></h3>
 
+<p align="center">
+    <a href="https://www.instagram.com/thisiskartikgupta_/">
+    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/svg/instagram.svg" alt="Instagram" width="30"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kartik-gupta-kiet1811/">
+    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/svg/linkedin.svg" alt="LinkedIn" width="30"/></a>&nbsp;&nbsp;
+    <a href="https://devpost.com/thisiskartikgupta">
+    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/devpost.png" alt="Devpost" width="36"/></a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/thisiskartikgupta/"/>
+    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/leetcode.png" alt="Leetcode" width="28"/></a>&nbsp;&nbsp;
+    Telegram
+    Stack Overflow
+</p>
 
 
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
