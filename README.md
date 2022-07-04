@@ -1,6 +1,6 @@
 <h2 align="center">
     <samp>Hi there ! I am Kartik Gupta</samp>
-    <img src="img/long-livethe-blob-sunglasses.gif" width="30" >
+    <img src="./static/assets/gif/long-livethe-blob-sunglasses.gif" width="30" >
 </h2>
 
 <img align="right" src="./static/assets/gif/developer.gif" alt="Namaste coders" width="400"/> 
