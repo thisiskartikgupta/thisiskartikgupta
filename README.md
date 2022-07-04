@@ -1,59 +1,23 @@
+<h2 align="center">
+    <samp>Hi there ! I am Kartik Gupta</samp>
+    <img src="img/long-livethe-blob-sunglasses.gif" width="30" >
+</h2>
+
+<img align="right" src="./static/assets/png/developer.gif" alt="Hola Coders" width="400"/> 
+
+<ul>
+    <li><h5>🎓 &nbsp; I'm a 2023 undergraduate student pursuing my B.Tech in Computer Science.</h5></li>
+    <li><h5>🌱 &nbsp; I'm currently reinforcing my Data Structures and Algorithms skills.</h5></li>
+    <li><h5>🔭 &nbsp; I'm passionate about Web3, AR/VR Development and DevOps.</h5></li>
+    <li><h5>💬 &nbsp; Ask me about : Linux, Javascript, ReactJS, Docker, Kubernetes.</h5></li>
+    <li><h5>📫 &nbsp; Feel free to reach out to me : <a href="mailto:guptakartik1811@gmail.com"><strong>guptakartik1811@gmail.com</strong></a></h5></li>
+    <li><h5>🎮 &nbsp; I love playing online games.</h5></li>
+</ul>
+
+--- 
+
+<h3 align="center"><samp>Connect with me on </samp></h3>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!-- <table><tr><td>Boxed text</td></tr></table
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
-<p align="center">
-    <strong>Namaste everyone</strong>
-    <img src="img/praying-praying-hands.gif" alt="Hand Wave" width=25/>
-</p>
-<p align="center">
-   <h1 align="center">
-    <samp> I am Kartik Gupta</samp>
-    <img src="img/long-livethe-blob-sunglasses.gif" width=35 >
-   </h1>
-</p>
-
-<em>
-    This section is being updated ! Stay tuned
-    
-<img src="img/0529-light.gif" alt="Flash" width=20>
-<img src="img/0529-light.gif" alt="Flash" width=20>
-<img src="img/0529-light.gif" alt="Flash" width=20>
-<img src="img/0529-light.gif" alt="Flash" width=20>
-<img src="img/0529-light.gif" alt="Flash" width=20>
-<img src="img/0529-light.gif" alt="Flash" width=20>
-</em>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisiskartikgupta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskartikgupta&theme=radical" />
-  
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=thisiskartikgupta&theme=rogue" /> -->
-
-<!--
-**thisiskartikgupta/thisiskartikgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
