@@ -20,18 +20,18 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kartik-gupta-kiet1811/">
-        <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/svg/linkedin.svg" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./static/assets/svg/linkedin.svg" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
     <a href="https://devpost.com/thisiskartikgupta">
-    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/devpost.png" alt="Devpost" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./static/assets/png/devpost.png" alt="Devpost" width="45"/></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/thisiskartikgupta_/">
-    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/svg/instagram.svg" alt="Instagram" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./static/assets/svg/instagram.svg" alt="Instagram" width="40"/></a>&nbsp;&nbsp;
     <a href="https://leetcode.com/thisiskartikgupta/"/>
-    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/leetcode.png" alt="Leetcode" width="38"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./static/assets/png/leetcode.png" alt="Leetcode" width="38"/></a>&nbsp;&nbsp;
     <a href="https://t.me/guptakartik1811">
-    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/telegram.png" alt="Telegram" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./static/assets/png/telegram.png" alt="Telegram" width="40"/></a>&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/13835323/kartik-gupta">
-    <img src="https://github.com/thisiskartikgupta/thisiskartikgupta/blob/main/static/assets/png/stackoverflow.png" alt="Stack Overflow" width="40"/></a>
+    <img src="./static/assets/png/stackoverflow.png" alt="Stack Overflow" width="40"/></a>
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<img src="./static/assets/svg/waves.svg">
