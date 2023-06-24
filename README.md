@@ -11,7 +11,7 @@
     <li><h5>🔭 &nbsp; I'm passionate about Web3, AR/VR Development and DevOps.</h5></li>
     <li><h5>💬 &nbsp; Ask me about : Linux, Javascript, ReactJS, Docker, Kubernetes.</h5></li>
     <li><h5>📫 &nbsp; Feel free to reach out to me : <a href="mailto:guptakartik1811@gmail.com"><strong>guptakartik1811@gmail.com</strong></a></h5></li>
-    <li><h5>🎮 &nbsp; I love playing online games.</h5></li>
+    <li><h5>🎮 &nbsp; I love playing Chess♟️.</h5></li>
 </ul>
 
 --- 
