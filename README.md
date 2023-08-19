@@ -7,9 +7,9 @@
 
 <ul>
     <li><h5>🎓 &nbsp; I'm a 2023 undergraduate student pursuing my B.Tech in Computer Science.</h5></li>
-    <li><h5>🌱 &nbsp; I'm currently reinforcing my Data Structures and Algorithms skills.</h5></li>
-    <li><h5>🔭 &nbsp; I'm passionate about Web3, AR/VR Development and DevOps.</h5></li>
-    <li><h5>💬 &nbsp; Ask me about : Linux, Javascript, ReactJS, Docker, Kubernetes.</h5></li>
+    <li><h5>🌱 &nbsp; I'm currently reading about Machine Learning.</h5></li>
+    <li><h5>🔭 &nbsp; I'm passionate about Web3, AR/VR Development and new advancements in AI.</h5></li>
+    <li><h5>💬 &nbsp; Ask me about : Linux, Javascript, ReactJS, Spring, Docker.</h5></li>
     <li><h5>📫 &nbsp; Feel free to reach out to me : <a href="mailto:guptakartik1811@gmail.com"><strong>guptakartik1811@gmail.com</strong></a></h5></li>
     <li><h5>🎮 &nbsp; I love playing Chess♟️.</h5></li>
 </ul>
