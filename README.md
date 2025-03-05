@@ -19,9 +19,9 @@
     <a href="https://t.me/guptakartik1811">
     <img src="./static/assets/png/telegram.png" alt="Telegram" width="40"/></a>&nbsp;&nbsp; -->
     <a href="https://stackoverflow.com/users/13835323/kartik-gupta" target="_blank">
-    <img src="./static/assets/png/stackoverflow.png" alt="Stack Overflow" width="40"/></a>
+    <img src="./static/assets/png/stackoverflow.png" alt="Stack Overflow" width="40"/></a>&nbsp;&nbsp;
     <a href="https://x.com/guptakartik1811" target="_blank">
-    <img src="./static/assets/png/x" alt="X" width="40"/></a>
+    <img src="./static/assets/png/x.png" alt="X" width="40"/></a>
     
 </p>
 
